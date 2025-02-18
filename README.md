@@ -1,8 +1,8 @@
- # 🚀 Kaustubh Sonde | AI/ML | Data Sci | Gen AI  
-**B.Tech Artificial Intelligence & Data Science** | 
+<h1 align="left">🚀 Kaustubh Sonde | AI/ML | Data Sci | Gen AI</h1>
+
 ###
 
-<p align="left">* Passionate about ML, Deep Learning applications in real world problems.<br>* Implemented projects in Natural Language Processing,Gen AI and CNNs.<br>*</p>
+<p align="left">🔹Passionate about ML, Deep Learning applications in real world problems.<br>🔹Implemented projects in Natural Language Processing,Gen AI and CNNs.<br>🔹Enthusiastic about learning and contributing in this field.</p>
 
 ###
 
@@ -24,7 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
 ###
@@ -37,8 +38,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/kaustubh-sonde/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="http://discordapp.com/users/459035301344706571" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:sondekaustubh7@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
